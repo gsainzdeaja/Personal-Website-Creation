@@ -1,2 +1,3 @@
-# Personal-Website-Creation
-Created a personal website for a Web Development course at Cornell University.
+# Project 1
+
+**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
